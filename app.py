@@ -18,7 +18,7 @@ except ImportError:
 # Config general
 # =============================
 st.set_page_config(
-    page_title="IDELA/IDAT - Dashboard Gerencial",
+    page_title="IDELA/IDAT - Dashboard Gerencial.",
     page_icon="📊",
     layout="wide"
 )
